@@ -26,6 +26,6 @@ jobs:
       - name: install dependencies
         run: npm ci
       - name: Built project 
-        run: npm run built 
+        run: npm run build
       - name: Deploy 
         run: eacho "deply..."
