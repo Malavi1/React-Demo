@@ -28,4 +28,4 @@ jobs:
       - name: Built project 
         run: npm run build
       - name: Deploy 
-        run: eacho "deply..."
+        run: echo "deply..."
